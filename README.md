@@ -1,150 +1,115 @@
-<!-- Nicolas-Rozas GitHub Profile README -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Nicol%C3%A1s+Rozas+%F0%9F%91%8B;Frontend+%26+Fullstack+Developer;Angular+%7C+React+%7C+Python+%7C+Django;Building+scalable+web+experiences" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0f766e,100:0D1117&height=200&section=header&text=Nicol%C3%A1s%20Rozas&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Argentina%20%F0%9F%87%A6%F0%9F%87%B7&descSize=18&descAlignY=60&descColor=94A3B8" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-sebastian-rozas-7791a1201)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rozasnicolas23@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Nicolas-Rozas?label=Follow&style=for-the-badge&color=14B8A6&labelColor=0D1117)](https://github.com/Nicolas-Rozas)
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D_Argentina-14B8A6?style=for-the-badge&labelColor=0D1117)](https://github.com/Nicolas-Rozas)
-
-</div>
-
----
-
-## About Me
-
-```
-🧑‍💻  Fullstack Developer based in Argentina 🇦🇷
-⚡  Passionate about tackling complex challenges and building innovative products
-🌱  Currently deepening expertise in scalable frontend architectures
-🤝  Open to exciting opportunities and collaborations
-📬  rozasnicolas23@gmail.com
-```
-
-I'm passionate about programming and thrive on tackling complex challenges with energy and a strong aptitude for learning. I'm seeking a role that offers growth opportunities and the chance to contribute to innovative projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-sebastian-rozas-7791a1201">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:rozasnicolas23@gmail.com">
+    <img src="https://img.shields.io/badge/rozasnicolas23@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Nicolas-Rozas&style=flat-square&color=0f766e&label=visitors" />
+</p>
 
 ---
 
-## Tech Stack
+### Hey, I'm Nico 👋
 
-**Frontend**
+I'm a fullstack developer based in Rosario, Argentina. I've been building web and mobile products since 2021 — from fintech apps and crypto platforms to donation systems and educational tools. I like working close to the product, understanding the problem before writing a single line of code, and pushing things to production that actually work.
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,sass,mui,jquery,redux,firebase,vercel&theme=dark)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" alt="Gatsby"/>
-<img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" alt="Strapi"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
-**Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=python,django,nodejs&theme=dark)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/Django_CMS-092E20?style=flat-square&logo=django&logoColor=white" alt="Django CMS"/>
-<img src="https://img.shields.io/badge/RESTful_APIs-14B8A6?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja"/>
-
-**Cloud & DevOps**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,heroku,git,github,gitlab&theme=dark)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp"/>
+Currently at **PSH** building features for clients across the US and Europe. Previously at **Wakeful** (fintech/mobile) and **Giant** (UK nonprofit sector).
 
 ---
 
-## Work Experience
+### Stack
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### PSH &nbsp;`Jul 2024 – Present`
-**Fullstack Developer**
-
-- Angular, React, Gatsby, Strapi, SCSS
-- Python, Jinja, RESTful APIs
-- Clients: Seesaw, Life Homecare, Unipyme, Pathful
-
-</td>
-<td width="50%" valign="top">
-
-### Wakeful / Oaks Valley Financial &nbsp;`2022 – Jul 2024`
-**Frontend Developer**
-
-- React Native, Next.js, TypeScript, Redux
-- Django, Firebase, Framer Motion
-- Deployed on Vercel & Azure
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Giant &nbsp;`May 2021 – Mar 2022`
-**Fullstack Developer**
-
-- jQuery, Sass, Django, Django CMS
-- Docker, AWS
-- Built donation platforms — client: Make-A-Wish
-
-</td>
-<td width="50%" valign="top">
-
-### Looking Forward
-**Open to new opportunities**
-
-- Scalable, product-driven teams
-- Modern web & mobile stacks
-- Remote-friendly roles worldwide
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="33%">
+      <b>Frontend</b><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <b>Backend</b><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-0f766e?style=flat-square&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+    <td valign="top" width="33%">
+      <b>Infra & Tools</b><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub_/_GitLab-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## GitHub Stats
+### Experience
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Rozas&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=14B8A6&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&hide_border=false&count_private=true" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Rozas&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=14B8A6&title_color=14B8A6&text_color=C9D1D9&hide_border=false&langs_count=8" height="170" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nicolas-Rozas&theme=tokyonight&background=0D1117&border=14B8A6&ring=14B8A6&fire=F97316&currStreakLabel=14B8A6&sideLabels=C9D1D9&dates=6E7681" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-Rozas&theme=react-dark&bg_color=0D1117&color=14B8A6&line=14B8A6&point=F97316&area=true&area_color=14B8A6&hide_border=false" alt="Contribution Graph"/>
-
-</div>
+<table>
+  <tr>
+    <td width="3px" bgcolor="#14B8A6" style="background-color:#14B8A6;"></td>
+    <td width="18px"></td>
+    <td>
+      <b>Fullstack Developer · PSH</b> &nbsp;&nbsp;<sup><code>Jul 2024 – present</code></sup><br/>
+      Software factory based in Argentina delivering products for US and European clients.<br/>
+      <sub>Angular · React · Gatsby · Strapi · Python · Jinja · RESTful APIs · SCSS</sub><br/>
+      <sub>→ Seesaw (ed-tech) · Life Homecare · Unipyme · Pathful</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td width="3px" bgcolor="#0f766e" style="background-color:#0f766e;"></td>
+    <td width="18px"></td>
+    <td>
+      <b>Frontend Developer · Wakeful</b> &nbsp;&nbsp;<sup><code>2022 – Jul 2024</code></sup><br/>
+      Fintech startup with two products: Bitennial (crypto exchange) and Wakeful (investment app for LatAm).<br/>
+      <sub>React Native · Next.js · TypeScript · Redux · Django · Firebase · Framer Motion</sub><br/>
+      <sub>→ Mobile app deployed on Azure · Web on Vercel</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td width="3px" bgcolor="#134e4a" style="background-color:#134e4a;"></td>
+    <td width="18px"></td>
+    <td>
+      <b>Fullstack Developer · Giant</b> &nbsp;&nbsp;<sup><code>May 2021 – Mar 2022</code></sup><br/>
+      UK-based software agency building platforms for nonprofit and charity organisations.<br/>
+      <sub>jQuery · Sass · Django · Django CMS · Docker · AWS · Heroku</sub><br/>
+      <sub>→ Make-A-Wish donation platform and others</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Let's Connect
+### Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Rozas&show_icons=true&bg_color=0D1117&border_color=1e293b&title_color=14B8A6&icon_color=14B8A6&text_color=94A3B8&hide_border=false&count_private=true&include_all_commits=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Rozas&layout=compact&bg_color=0D1117&border_color=1e293b&title_color=14B8A6&text_color=94A3B8&hide_border=false&langs_count=6" height="160"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-sebastian-rozas-7791a1201)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rozasnicolas23@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicolas-Rozas)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-Rozas&theme=react-dark&bg_color=0D1117&color=14B8A6&line=0f766e&point=14B8A6&area=true&hide_border=true" width="96%"/>
+</p>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=14B8A6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together." alt="Footer Typing SVG" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0f766e,100:0D1117&height=120&section=footer" />
