@@ -59,46 +59,6 @@ Currently at **PSH** building features for clients across the US and Europe. Pre
   </tr>
 </table>
 
----
-
-### Experience
-
-<table>
-  <tr>
-    <td width="3px" bgcolor="#14B8A6" style="background-color:#14B8A6;"></td>
-    <td width="18px"></td>
-    <td>
-      <b>Fullstack Developer · PSH</b> &nbsp;&nbsp;<sup><code>Jul 2024 – present</code></sup><br/>
-      Software factory based in Argentina delivering products for US and European clients.<br/>
-      <sub>Angular · React · Gatsby · Strapi · Python · Jinja · RESTful APIs · SCSS</sub><br/>
-      <sub>→ Seesaw (ed-tech) · Life Homecare · Unipyme · Pathful</sub>
-    </td>
-  </tr>
-  <tr><td colspan="3"><br/></td></tr>
-  <tr>
-    <td width="3px" bgcolor="#0f766e" style="background-color:#0f766e;"></td>
-    <td width="18px"></td>
-    <td>
-      <b>Frontend Developer · Wakeful</b> &nbsp;&nbsp;<sup><code>2022 – Jul 2024</code></sup><br/>
-      Fintech startup with two products: Bitennial (crypto exchange) and Wakeful (investment app for LatAm).<br/>
-      <sub>React Native · Next.js · TypeScript · Redux · Django · Firebase · Framer Motion</sub><br/>
-      <sub>→ Mobile app deployed on Azure · Web on Vercel</sub>
-    </td>
-  </tr>
-  <tr><td colspan="3"><br/></td></tr>
-  <tr>
-    <td width="3px" bgcolor="#134e4a" style="background-color:#134e4a;"></td>
-    <td width="18px"></td>
-    <td>
-      <b>Fullstack Developer · Giant</b> &nbsp;&nbsp;<sup><code>May 2021 – Mar 2022</code></sup><br/>
-      UK-based software agency building platforms for nonprofit and charity organisations.<br/>
-      <sub>jQuery · Sass · Django · Django CMS · Docker · AWS · Heroku</sub><br/>
-      <sub>→ Make-A-Wish donation platform and others</sub>
-    </td>
-  </tr>
-</table>
-
----
 
 ### Stats
 
